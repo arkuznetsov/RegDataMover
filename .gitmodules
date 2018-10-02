@@ -1,4 +1,4 @@
 [submodule "modules/SerLib1C"]
 	path = modules/SerLib1C
-	url = https://github.com/ArKuznetsov/SerLib1C.git
+	url = https://github.com/arkuznetsov/SerLib1C.git
 	branch = master
