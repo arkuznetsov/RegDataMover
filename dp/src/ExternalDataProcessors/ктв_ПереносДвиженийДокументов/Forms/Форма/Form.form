@@ -1334,7 +1334,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ктв_ПереносДвиженийДокументов</types>
+      <types>ExternalDataProcessor.ктв_ПереносДвиженийДокументов</types>
     </valueType>
     <view>
       <common>true</common>
@@ -1468,27 +1468,6 @@
       <common>true</common>
     </edit>
   </attributes>
-  <formCommands>
-    <name>Тест</name>
-    <title>
-      <key>ru</key>
-      <value>Тест</value>
-    </title>
-    <id>1</id>
-    <toolTip>
-      <key>ru</key>
-      <value>Тест</value>
-    </toolTip>
-    <use>
-      <common>true</common>
-    </use>
-    <action xsi:type="form:FormCommandHandlerContainer">
-      <handler>
-        <name>Тест</name>
-      </handler>
-    </action>
-    <currentRowUse>DontUse</currentRowUse>
-  </formCommands>
   <formCommands>
     <name>ЗаполнитьСписокДокументов</name>
     <title>

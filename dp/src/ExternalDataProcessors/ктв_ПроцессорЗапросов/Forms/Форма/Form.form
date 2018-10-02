@@ -290,6 +290,10 @@
               <segments>Запрос_Параметры.Параметр_СпособЗаполнения</segments>
             </paths>
           </dataPath>
+          <handlers>
+            <event>OnChange</event>
+            <name>Запрос_ПараметрыПараметр_СпособЗаполненияПриИзменении</name>
+          </handlers>
           <extendedTooltip>
             <name>Запрос_ПараметрыПараметр_СпособЗаполненияРасширеннаяПодсказка</name>
             <id>28</id>
@@ -1275,7 +1279,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ктв_ПроцессорЗапросов</types>
+      <types>ExternalDataProcessor.ктв_ПроцессорЗапросов</types>
     </valueType>
     <view>
       <common>true</common>
