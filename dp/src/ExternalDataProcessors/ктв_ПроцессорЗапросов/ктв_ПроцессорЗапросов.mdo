@@ -21,4 +21,12 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
+  <templates uuid="a0b36585-6b02-4dff-9f93-5797b81c8acc">
+    <name>ВерсияОбработки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Версия обработки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
 </mdclass:ExternalDataProcessor>
