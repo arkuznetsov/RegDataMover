@@ -1,14 +1,14 @@
-//----------------------------------------------------------
-//This Source Code Form is subject to the terms of the
-//Mozilla Public License, v.2.0. If a copy of the MPL
-//was not distributed with this file, You can obtain one
-//at http://mozilla.org/MPL/2.0/.
-//----------------------------------------------------------
-//Codebase: https://github.com/ArKuznetsov/RegDataMover/
-//----------------------------------------------------------
+// ----------------------------------------------------------
+// This Source Code Form is subject to the terms of the
+// Mozilla Public License, v.2.0. If a copy of the MPL
+// was not distributed with this file, You can obtain one
+// at http://mozilla.org/MPL/2.0/.
+// ----------------------------------------------------------
+// Codebase: https://github.com/ArKuznetsov/RegDataMover/
+// ----------------------------------------------------------
 
 &НаКлиенте
-Перем ФормаРедактированияЗапроса Экспорт; //Хранит ссылку на форму редактора запросов
+Перем ФормаРедактированияЗапроса Экспорт; // Хранит ссылку на форму редактора запросов
 Перем Настройки;
 &НаСервере
 Перем ПреобразованиеДанных;
