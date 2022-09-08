@@ -1,1 +1,4 @@
 *.epf
+*.zip
+tmp
+dp/.settings/
